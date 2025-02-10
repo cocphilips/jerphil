@@ -10,7 +10,8 @@ IMAGE_DATASETS = {
         {"path": "bitmind/open-images-v7"},
         {"path": "bitmind/celeb-a-hq"},
         {"path": "bitmind/ffhq-256"},
-        {"path": "bitmind/MS-COCO-unique-256"}
+        {"path": "bitmind/MS-COCO-unique-256"},
+        {"path": "evanarlian/imagenet_1k_resized_256"}
     ],
     "fake": [
         {"path": "bitmind/bm-realvisxl"},
